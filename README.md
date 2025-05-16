@@ -1,4 +1,4 @@
-# GI Tract Image Segmentation
+# Multi-organ GI Tract Segmentation for Chemotherapy Planning
 
 ## Overview
 This project implements a **U-Net deep learning model** for **medical image segmentation**, specifically targeting segmentation of the gastrointestinal (GI) tract from medical scans. The pipeline includes custom data preprocessing, a modular training process, and exportable predictions in **Run-Length Encoding (RLE)** format.
